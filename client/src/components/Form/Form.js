@@ -1,8 +1,12 @@
 import React from 'react';
+import "./styles.css"
+import { TextField, Button, Typography, Paper } from '@mui/material';
 
 const Form = () => {
     return (
-        <h1>Form</h1>
+        <Paper>
+            <form></form>
+        </Paper>
     );
 }
 
